@@ -67,8 +67,7 @@ export default {
         {position: 49, value: 10, suit: 'diamond'},
         {position: 50, value: 6, suit: 'club'},
         {position: 51, value: 1, suit: 'heart'},
-        {position: 52, value: 9, suit: 'diamond'},
-
+        {position: 52, value: 9, suit: 'diamond'}
       ]
     }
   },
